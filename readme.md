@@ -3,4 +3,4 @@ TumbleDry
 
 Tech Used -> HTML, CSS, JS
 
-Demo -> <a href="https://monu417.github.io/TumbleDry/">Click me for demo view</a>
+Demo -> <a href="https://monu417.github.io/TumbleDry/">Click me to view demo</a>
